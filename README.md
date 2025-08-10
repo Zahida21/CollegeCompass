@@ -1,0 +1,1 @@
+College Compass is a platform designed to connect current students with senior alumni, enabling mentorship, guidance, and knowledge-sharing. From career advice and internship tips to navigating college life, it empowers students to learn directly from those who have walked the path before them.
